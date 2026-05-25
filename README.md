@@ -14,5 +14,3 @@ Place file in ~/.config/micro/colorschemes/ (create a new folder named colorsche
 Open the Micro text editor, press control+e and type "set colorscheme kanagawa-wave" (without quotation marks) and press enter.
 
 Done.
-
-<img width="754" height="527" alt="KanagawaWaveMicro" src="https://github.com/user-attachments/assets/1fce9f3f-5b21-4ec7-b9f3-7dae439a9c90" /><br/>
