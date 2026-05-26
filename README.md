@@ -1,7 +1,7 @@
 # Kanagawa Wave Micro
 Kanagawa Wave for the Micro text editor.
 
-<img width="103" height="103" alt="KanagawaArt" src="https://github.com/user-attachments/assets/498a7193-3e65-4def-8824-b86afaa79583" /><br/>
+<img width="133" height="133" alt="KanagawaArt" src="https://github.com/user-attachments/assets/46a1ce8f-aaeb-4124-9d89-5f538dc23255" /><br/>
 
 * [Micro text editor](https://micro-editor.github.io/)
 
