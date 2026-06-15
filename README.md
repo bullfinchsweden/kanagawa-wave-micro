@@ -13,4 +13,4 @@ Open the Micro text editor, press control+e and type "set colorscheme kanagawa-w
 
 Done.
 
-<img width="754" height="528" alt="KanagawaWaveMicro" src="https://github.com/user-attachments/assets/37ef74fd-6231-42b0-923c-b2af831534a9" />
+<img width="754" height="529" alt="KanagawaWaveMicro" src="https://github.com/user-attachments/assets/1e86c6fe-3d49-40e1-a16e-9e76fe3ee1c9" />
