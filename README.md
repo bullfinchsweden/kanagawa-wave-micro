@@ -1,7 +1,7 @@
 # Kanagawa Wave Micro
 Kanagawa Wave for the Micro text editor.
 
-<img width="103" height="103" alt="KanagawaArt" src="https://github.com/user-attachments/assets/7ddb5ca4-f470-458e-bc9b-f2dbc952913b" /><br/>
+<img src="Images/KanagawaArt.png"><br/>
 
 * [Micro text editor](https://micro-editor.github.io/)
 
@@ -13,4 +13,4 @@ Open the Micro text editor, press control+e and type "set colorscheme kanagawa-w
 
 Done.
 
-<img width="754" height="529" alt="KanagawaWaveMicro" src="https://github.com/user-attachments/assets/1e86c6fe-3d49-40e1-a16e-9e76fe3ee1c9" />
+<img src="Images/KanagawaMicro.png" width="754" height="529" />
