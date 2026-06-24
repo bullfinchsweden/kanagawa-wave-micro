@@ -5,7 +5,7 @@ Kanagawa Wave for the Micro text editor.
 
 * [Micro text editor](https://micro-editor.github.io/)
 
-* [Kanagawa color scheme](https://github.com/rebelot/kanagawa.nvim/)<br/>
+* [Kanagawa for NeoVim](https://github.com/rebelot/kanagawa.nvim/)<br/>
 
 Place file in ~/.config/micro/colorschemes/ (create a new folder named colorschemes if non-existing).
 
