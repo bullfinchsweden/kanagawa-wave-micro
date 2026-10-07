@@ -1,7 +1,7 @@
 # Kanagawa Wave Micro
 Kanagawa Wave for the Micro text editor.
 
-<img src="Images/KanagawaArt.png"><br/>
+<img src="Images/Micro.jpg"><br/>
 
 * [Micro text editor](https://micro-editor.github.io/)
 
