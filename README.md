@@ -7,6 +7,8 @@ Kanagawa Wave for the Micro text editor.
 
 * [Kanagawa for NeoVim](https://github.com/rebelot/kanagawa.nvim/)<br/>
 
+<img src="Images/KanagawaWave.jpg" width="768" height="320" /><br/>
+
 Place file in ~/.config/micro/colorschemes/ (create a new folder named colorschemes if non-existing).
 
 Open the Micro text editor, press control+e and type "set colorscheme kanagawa-wave" (without quotation marks) and press enter.
