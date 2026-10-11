@@ -1,4 +1,4 @@
-# Kanagawa Wave Micro
+# Kanagawa Wave Micro 🌊
 Kanagawa Wave for the Micro text editor.
 
 <img src="Images/Micro.jpg"><br/>
