@@ -5,7 +5,7 @@ Kanagawa Wave for the Micro text editor.
 
 * [Micro text editor](https://micro-editor.github.io/)
 
-* [Kanagawa for NeoVim](https://github.com/rebelot/kanagawa.nvim/)<br/>
+* [Kanagawa for Neovim](https://github.com/rebelot/kanagawa.nvim/)<br/>
 
 <img src="Images/KanagawaWave.jpg" width="768" height="320" /><br/>
 
